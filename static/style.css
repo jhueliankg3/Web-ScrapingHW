@@ -1,0 +1,26 @@
+body{
+    font-family: 'Helvetica', sans-serif;
+    font-size: 16px;
+}
+
+    
+.jumbotron h1{
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+h2{
+    color: cornflowerblue;
+    font-weight: bold;
+    border-bottom: 4px lightgray solid;
+    padding-bottom: 10px;
+}
+
+.jumbotron{
+    margin-top:80px;
+}
+
+
+.lead{
+    font-weight: bold;
+}
